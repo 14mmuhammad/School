@@ -1,0 +1,9 @@
+- Digital Arts
+- French
+- Math Review
+- Science Test Review
+- Social Studies Essay
+- Service Learning:
+    - [Thursday]Astronomy & Physics Club - Gantry - Afterschool -> 3 to 4 - 15 places  
+    - [Tuesday]Student Ambassadors - Johnson -> 12:55 to 1:20 - 10 places 
+    - [Tuesday]Table Tennis

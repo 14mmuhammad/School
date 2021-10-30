@@ -1,0 +1,2 @@
+Trustworthy 
+End if bad
