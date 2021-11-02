@@ -74,12 +74,13 @@ ft long and 3 inches in diameter
 these are the liver, gall bladder and pancreas. The liver is where bile is produced,
 it is loaded with lipids and salts, and it dissolves and disperses droplets of fats
 found in food. Then gall bladder, stores bile and is attached to the liver and small
-intestine. Then there are the pancreas, they produce enzymes such as amylase, which,
-breaks down starch, nuclease, which, breaks down the nucleus of the cells from the food,
-lypases, which, break down lipids, and protinases which break down proteins. These enzymes
-break down carbohydrates, proteins, lipids and nucleic acids. It also produces sodium
-bicarbonat which neutralizes stomach acid. Also produces insulin, which regulates blood sugar.
-The gall bladder also drips the bile into the small intestine.
+intestine and it also absorbs water. Then there are the pancreas, they produce enzymes
+such as amylase, which, breaks down starch, nuclease, which, breaks down the nucleus of
+the cells from the food, lypases, which, break down lipids, and protinases which break 
+down proteins. These enzymes break down carbohydrates, proteins, lipids and nucleic acids.
+It also produces sodium bicarbonat which neutralizes stomach acid. Also produces insulin, 
+which regulates blood sugar. The gall bladder also drips the bile into the small
+intestine.
     
 ### Excretory System: 
 - Homeostasis is the regulation of a stable internal environment in the body. 
@@ -279,3 +280,7 @@ is equivalent to the gram kilocalorie, approximately 4.2 kilojoules.
     - Digestive System
     - Intestines
     - Excretory System 
+- ![./res/DS.png](./res/DS.png) 
+- ![./res/DS.jpeg](./res/DS_Diagram.jpg) 
+- ![./res/ES.png](./res/ES.png)
+- ![./res/ES_Diagram.jpg](./res/ES_Diagram.jpg)

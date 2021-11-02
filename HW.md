@@ -1,5 +1,3 @@
-- Digital Arts
-- French
 - Math Review
 - Science Test Review
 - Social Studies Essay
