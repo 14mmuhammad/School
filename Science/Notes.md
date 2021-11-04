@@ -1,5 +1,5 @@
 # Semester 1
-
+- LE = Learning Engagement
 
 ## Unit 1: Energy
 - GPE is the amount of energy a project has because of its position above the ground
@@ -379,8 +379,10 @@ best with insulators as well
 - When oil/petrol is pumped, there can be a spark and boom, an explosion at the petrol station
 as the spark is also able to burn the fuel as there is oxygen in the air
 - In operating rooms, it is vital that doctors don't become statically charged
-because
-
-
+because some of the gases in the room can cause explosions as well and that is 
+why antistatic floors are used
+- Applications of this static electricity are paint spraying, printers,
+photocopiers and smoke precipitators
+- *More information on how these things work can be found in LE2*
 
 
