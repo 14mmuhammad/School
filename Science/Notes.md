@@ -284,3 +284,103 @@ is equivalent to the gram kilocalorie, approximately 4.2 kilojoules.
 - ![./res/DS.jpeg](./res/DS_Diagram.jpg) 
 - ![./res/ES.png](./res/ES.png)
 - ![./res/ES_Diagram.jpg](./res/ES_Diagram.jpg)
+
+
+## Unit 3: Electricity
+
+- Static electricity is the charge made
+by stationary friction due to differently 
+charged substances or something
+
+- Current can happened due to the movement
+of negatively charged subatomic particles
+called electrons through wires or the 
+movemend of charged molecules by ions.
+
+- There is a relationship between electricity
+and magnetism
+
+- Francis Hauksbee found out that spinning 
+a glass globe produces electricity in the
+early 1700s
+
+- Stephen Gray & Granville Wheler discovered
+that electricity could be communicated over
+distances by contact.
+
+- Nerves work based off electricity in our 
+bodies.
+
+- Copper & Zinc discs separated by a cloth
+or cardboard and this generates electic 
+current.
+
+- Electric currents produce magnetic fields
+- 2 parallel electified wires attract each 
+other if the current flows in the same 
+direction and repels in the other one.
+
+- Amperes law, the force between currents 
+was inversely propotional to distance between
+them and proportional to the intensity of the
+current flowing in each.
+
+- Current between 2 points is also proportional
+to the voltage or potential difference between 
+them
+
+- I = V/R:
+    - I -> Current    (Amps)
+    - V -> Voltage    (Volts)
+    - R -> Resistance (Ohms)
+
+- Faraday made electric magnetic motor,
+caused due to magnets around an electified
+wire. 
+
+- He also said, the generation of electricity 
+in one wire via the changing magnetic field 
+created by the current in another. Basis for
+electromagnetic technologies nowadays.
+
+- The electricity created by magnetic 
+induction, the electricity produced by 
+a voltaic batter, and good old static
+electricity were all the same phenomenon.
+
+- He also theorized thaat electromagnetic 
+waves travel at the speed of light, and 
+that light must exist in the same medium
+as electical and magnetic energy.
+
+- J.P. Morgan's money was used by Edison
+and he worked on the longest lasting filament
+bulb. 
+
+- His bulb used DC (bad safety and efficiency)
+
+- Edison only improved on the bulbs
+
+- Conductors and insulators, metals are all conductors
+- Electric charge can be postive or negative
+- The positive and negative charge of an atom is the same
+- Atoms are uncharges due to the above
+- Opposites attract and like repel
+- Static electricity describes situation of objects that are stationary
+best with insulators as well
+- Current occurs when charge moves from A to B, best with conductors
+- When certain insulators are rubbed against each other, they get charged
+- Electrons move and protons stay stationary in an object
+- The material that gains the negative charge becomes negatively charged
+- The material that loses the negative charge is left with an equal positive charge
+- When uncharged and charged objects come together they attract
+- Different charge attracts and same charge repels
+- The main danger of static electricity is a spark which can blow things up
+- When oil/petrol is pumped, there can be a spark and boom, an explosion at the petrol station
+as the spark is also able to burn the fuel as there is oxygen in the air
+- In operating rooms, it is vital that doctors don't become statically charged
+because
+
+
+
+
