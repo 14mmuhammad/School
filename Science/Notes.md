@@ -362,6 +362,9 @@ bulb.
 - Edison only improved on the bulbs
 
 - Conductors and insulators, metals are all conductors
+- Conductors are the things that carry electric current
+- Insulators are the things that cannot carry electric current but can cause static electricity
+- When you rub 2 insualators, electrons are pased from A to B
 - Electric charge can be postive or negative
 - The positive and negative charge of an atom is the same
 - Atoms are uncharges due to the above
@@ -381,8 +384,49 @@ as the spark is also able to burn the fuel as there is oxygen in the air
 - In operating rooms, it is vital that doctors don't become statically charged
 because some of the gases in the room can cause explosions as well and that is 
 why antistatic floors are used
-- Applications of this static electricity are paint spraying, printers,
+- Applications of this static electricity are paint spraying, ink-jet printers,
 photocopiers and smoke precipitators
-- *More information on how these things work can be found in LE2*
 
+
+
+- ***COPY PASTED***
+- The spray nozzle is connected is connected to the positive terminal of an electrostatic generator.
+As the paint droplets leave they repel each other and spread out to form a fine cloud of paint.
+The metal panel to be painted is connected to the negative terminal.
+The negatively charged metal panel attracts the positively charged paint.
+
+- Spots of ink are given an electric charge as they leave the ink nozzle.
+The deflecting plates cause the drops to hit the right part of the paper.
+The charges on the deflecting plates change many times per second so that each drop
+hits the paper in a different position.
+
+
+- ![./res/Photocopier_1.png](./res/Photocopier_1.png)
+- ![./res/Photocopier_2.png](./res/Photocopier_2.png)
+- ![./res/Smoke_Precipitation.png](./res/Smoke_Precipitation.png)
+
+- **ANSWER QUESTIONS**
+
+2. Lightning is caused by the moving of frozen raindrops through the air and when they bump into each other this results in electric charge. This happens and happens eventually causing the whole cloud to be filled with electric charge. The positive charge is stored at the top of the cloud and the negative is stored at the bottom. As most of you know, opposite charges attract, the ground beneath the cloud builds up a positive charge. The ground’s electric charge then focuses on anything that sticks up like humans. The charge coming from these points connects with the charge coming from the clouds and this becomes lightning. There are many types of lightning like Sheet lightning, Fork lightning, Heat lightning, St. Elmo’s Fire, Ball lightning and Sprites and many more……
+
+3. The most dangerous thing about lightning is that no one knows where it is going to strike and that is why it is said that you should stay indoors and turn off any electronic equipment in your house so you stay safe. To stay safe you should stay away from water and stay away from conductive equipment like outlets and other metals. Also try to stay away from open fields and hilltops because these places have the highest probability of charge building up and avoid contact with the ground. Don’t stand under trees or other high objects. To keep your house safe you can buy lightning rods. Avoid showers, keep your windows closed and turn off any electronics and stay away from them. If you are in a car put both of your hands on your lap, keep the windows shut and avoid contact with car and don’t touch the radio or something and also pull to the side of the road.
+
+- 1a(I):  The cloth becomes negatively charged and the perspex rod becomes positively charged
+- 1a(II): The cloth becomes positively charged and the rod becomes negatively charged
+- 1b(I):  They attract because of the charge
+- 1b(II): The charge is negative
+- 1c(I):  Due to them being samely charged
+- 1c(II): Due to them being oppositely charged
+- 2a:     By rubbing a cloth with it
+- 2b:     Negative and Positive
+- 2c:     Yes, because the different types of materials allow electrons to be either transferred or received 
+- 2d:     Repel
+- 2e:     We can rub some cloth on 2 rods of different materials and then put them near each other to see what
+          happens, if they repel, they have same charge otherwise unlike charge
+- 2f:     Their atoms
+- 2g:     The electrons can be transferred from one atom to another causing one to be negative charged and 
+          the other to be positive
+- 3:  i   The hair are repelling because of them having the same charge
+- 3:  ii  Because it is an insulator and does not allow the electricity go to the earth
+- 3:  iii Hair would not stand up
 
