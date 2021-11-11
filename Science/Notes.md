@@ -362,7 +362,8 @@ bulb.
 - Edison only improved on the bulbs
 
 - Conductors and insulators, metals are all conductors
-- Conductors are the things that carry electric current
+- Conductors are the things that allow electric current to pass through it easily. 
+- Insulators are resistant to electricity
 - Insulators are the things that cannot carry electric current but can cause static electricity
 - When you rub 2 insualators, electrons are pased from A to B
 - Electric charge can be postive or negative
@@ -429,4 +430,62 @@ hits the paper in a different position.
 - 3:  i   The hair are repelling because of them having the same charge
 - 3:  ii  Because it is an insulator and does not allow the electricity go to the earth
 - 3:  iii Hair would not stand up
+
+- Electric current is the rate of flow of electric charge
+- Electric current of one amp flows when a charge of one coulomb
+passes a point in an electric circuit in one second
+
+- In metallic conductors, electrons carry negative charge from the 
+negative side of a power supple around a circuit and then back into
+the positive side.
+
+- Electric charge = current * time
+- Q = IT
+- Q is the electric charge (coulombs), I is the current (amps) and 
+T is the time (seconds)
+
+- Voltage of a battery is equal to the energy in joules 
+provided when a charge of one coulomb passes through the 
+battery
+
+- Voltage = Energy / Charge
+- Voltage definition -------
+- Current definition -------
+- 1 volt is the same as 1 joule per coulomb
+- Electric current only flows if the circuit is complete, unbroken
+and contains a power supply
+
+- Current goes negative to positive
+
+- If circuit components are connected in such a way that 
+the current goes through each one linearly, this is a 
+series circuit and all the components can be controlled
+by one switch. The components also share the voltage of the 
+power supply and with each bulb that is added, the previous
+one gets dimmer because there is more energy being shared. 
+They share the same current
+
+- Series circuits:
+- ![./res/series.png](./res/series.png)
+
+- Parallel circuits:
+- ![./res/parallel.png](./res/parallel.png)
+
+- As you can see, in a parallel circuit, we can 
+have individual switches to control each bulb as well, 
+if we break the connection of one bulb, the other one 
+will still work. They also allow the bulbs to be more
+brighter than in a series circuit. They have the same
+voltage.
+
+- The total current is the sum of the currents through
+the separate components. 
+
+- Circuit symbols:
+- ![./res/circuit_symbols_0.png](./res/circuit_symbols_0.png)
+- ![./res/circuit_symbols_1.png](./res/circuit_symbols_1.png)
+- ![./res/circuit_symbols_2.png](./res/circuit_symbols_2.png)
+- ![./res/circuit_symbols_3.png](./res/circuit_symbols_3.png)
+- ![./res/complete_symbols.png](./res/complete_symbols.png)
+
 
