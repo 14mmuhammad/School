@@ -1,3 +1,1 @@
-- 25/10/2021
-- Compare and Contrast:
-    - Similarities as well as differences
+
