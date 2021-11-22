@@ -329,6 +329,9 @@ current flowing in each.
 to the voltage or potential difference between 
 them
 
+- It can also be measured in joules per coulomb
+- 
+
 - I = V/R:
     - I -> Current    (Amps)
     - V -> Voltage    (Volts)
@@ -447,6 +450,8 @@ T is the time (seconds)
 - Voltage of a battery is equal to the energy in joules 
 provided when a charge of one coulomb passes through the 
 battery
+- In series, the voltage is divided amongst, in parallel 
+the voltage stays the same as the start
 
 - Voltage = Energy / Charge
 - Voltage definition -------
@@ -454,6 +459,11 @@ battery
 - 1 volt is the same as 1 joule per coulomb
 - Electric current only flows if the circuit is complete, unbroken
 and contains a power supply
+
+- P = VI
+- Power (Watts) = Voltage (Volts) * Current (Amps) 
+- P = I * I * R
+- Power (Watts) = Current (Amps) * Current (Amps) * Resistance (Ohm) 
 
 - Current goes negative to positive
 
@@ -487,5 +497,49 @@ the separate components.
 - ![./res/circuit_symbols_2.png](./res/circuit_symbols_2.png)
 - ![./res/circuit_symbols_3.png](./res/circuit_symbols_3.png)
 - ![./res/complete_symbols.png](./res/complete_symbols.png)
+- Coulomb = 6.2 * 10^18
+
+- Benjamin Franklin was the one who said current moves positive to negative
+- [Conventional Current]
 
 
+#### Questions
+- I [amps] = Q [coulombs] / T [seconds]
+- Rate of something, for example say, dollar per kg = total kg / total dollars, 
+so the Q is the total amount of electrons that flows through the circuit in T
+amount of seconds.
+- It is negative as protons cannot move
+- 3 Amps
+- (18 * (6.2 * 10^18)) / 3
+- B 
+- I = 567/90  -> 6.3 Amps
+- 8.5 = x/30s -> 255 C
+- 3 * 10^-4 or 3 * 10^4 depending on order of operations
+- 90%
+- 1500(6.2 * 10^18)
+- 0.042C
+- 1.2A
+- Tom
+- I1 = I2 + I3
+- A1 = 0.38, A3 = 0.21, A4 = 0.17
+- D
+
+
+- The electric potential difference between 2 points in a circuit
+- Joules per coulomb
+- 9V -> 12 - 3
+- Because they have no power
+- best definition for voltage: C -> The amount of energy that is 
+transferred by each Coulomb between two points in a circuit
+- 6V 
+- 12V 
+- V1 = 6V, V2 = 3V, V3 = 3V
+- The one at V1
+- For the drawing:
+    - a: draw a circuit which has 4 lamps in parallel
+    - b: draw a circuit which has 2 bulbs in series and then the other 2 are parallel
+    - c: draw a circuit which has 4 lamps in series
+
+- P = VI
+- 57.5 Watts
+- 
