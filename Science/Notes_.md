@@ -2,15 +2,13 @@
 - LE = Learning Engagement
 
 ## Unit 1: Energy
-- GPE is the amount of energy a project has because of its position 
-above the ground
+- GPE is the amount of energy a project has because of its position above the ground
 - The GPE depends on the mass and how high above the person is
 - GPE (j) = mass (kg) * gravitational field strength (newtons/kg) * height (m)
 - Usually the gravitational field strength on Earth is 10 N/kg
 - Kinetic energy is the energy an object has because it is moving
 - KE (j) = 1/2 * mass (kg) * velocity^2 (m/s)
-- Always rearrange these to find something like the mass or 
-something:
+- Always rearrange these to find something like the mass or something:
     - m = (2KE / v^2)
     - v = sqrt(2KE / m)
 
@@ -18,10 +16,8 @@ something:
 - Speed has the greatest effect on a moving object
 - Doubling mass = Doubling KE but Doubling speed/velocity = Quadrupling KE
 - Energy cannot be created nor destroyed, only transformed 
-- Because of the law of conservation of energy, as GPE is lost,
-KE is gained when an object is falling
-- Gravitation field strength is the strength of gravity in a
-particular location
+- Because of the law of conservation of energy, as GPE is lost, KE is gained when an object is falling
+- Gravitation field strength is the strength of gravity in a particular location
 - Power = Work Done / Time Taken
 - Work Done = Energy Transferred
 - Work done against friction causes heat
@@ -32,15 +28,14 @@ particular location
 - One Watt == One Joule Per Second
 - Power is also = Energy Change / Time
 - Power is the measure of how quickly a device does work
-- The power of a device is also equal to the rate at which a device 
-transforms energy from one form to another
+- The power of a device is also equal to the rate at which a device transforms energy from one form to another
 - One Kilowatt motor performs 1000 joules of work per second
-- If there is no specific air resistance, because of the law of
-conservation of energy, the GPE is converted into KE
+- If there is no specific air resistance, because of the law of conservation of energy, the GPE is converted into
+KE
 - Independent Variable = the thing you change, I.E. height of ball 
-- Dependent Variable   = the thing you measure, I.E, the depth of
-crater
+- Dependent Variable   = the thing you measure, I.E, the depth of crater
 - Controlled Variables = things you keep the same for accuracy
+
 - Outliers exist bruh
 - To calculate outliers, use (Q_one - 1.5IQR, Q_three - 1.5IQR) 
 - If you see outliers, be sure to do the experiment/trial again
@@ -48,8 +43,8 @@ crater
 
 ## Unit 2: Digestion And Excretion
 ### Digestive System:
-- Basic, ingestion = taking in food, digestion = breaking down of
-food, 2 types mechanical and chemical
+- Basic, ingestion = taking in food, digestion = breaking down of food, 
+2 types mechanical and chemical
 
 - Starts with teeth, the teeth aid in increasing the surface
 area of the food by physically breaking it down
@@ -57,49 +52,39 @@ area of the food by physically breaking it down
 the salivary glands release saliva which contains an enzyme 
 known as amylase and it breaks down starches. Also lubricates
 the food
-- Then the esophagus carries the bolus (food) from the mouth to
-the stomach (peristalsis)
-- The stomach churns and mixes the bolus, it also produces 
-hydrochloric  acids, secretes pepsin (breaks down protein) and 
-there is also mucus which lubricates and protects the stomach walls
-- Then the stomach sends the bolus into the small intestine where
-most of the digestion takes place. The intestine is divided into 3 
-parts, the duodenum, the jejunum and ileum. In each part something
-different is absorbed, the duodenum, absorbs iron, the jejunum 
-absorbs sugars, amino and fatty acids. Finally, the ileum absorbs
-the vitamin B12, bile acids and some other nutrients. Most of the
-absorption takes place in the jejunum. The small intestine also has 
-small hair-like projections along the small intestine known as
-villi. They increase the surface area of the intestine therefore 
-increasing the absorption of chemicals in the food. The small 
-intestine is about 20 ft long and ~3 cm in diameter. 
-- Once the food has gone through the small intestine it goes 
-through the large intestine or the colon where it removes excess 
-water from undigested mterial, reabsorption, only a bit though, 
-depends on how hydrated the body is though. The large intestine 
-is about 5 ft long and 3 inches in diameter
-- Then the food goes to the rectum and is excreted through the 
-anus as faeces. 
-- There are 3 organs that are part of the digestive system but 
-not the tract, these are the liver, gall bladder and pancreas. 
-The liver is where bile is produced, it is loaded with lipids
-and salts, and it dissolves and disperses droplets of fats found
-in food. Then gall bladder, stores bile and is attached to the
-liver and small intestine and it also absorbs water. Then there
-are the pancreas, they produce enzymes such as amylase, which,
-breaks down starch, nuclease, which, breaks down the nucleus of 
-the cells from the food, lypases, which, break down lipids, and 
-protinases which break down proteins. These enzymes break down
-carbohydrates, proteins, lipids and nucleic acids. It also produces 
-sodium bicarbonat which neutralizes stomach acid. Also produces
-insulin, which regulates blood sugar. The gall bladder also drips
-the bile into the small intestine.
+- Then the esophagus carries the bolus (food) from the mouth to the stomach (peristalsis)
+- The stomach churns and mixes the bolus, it also produces hydrochloric 
+acids, secretes pepsin (breaks down protein) and there is also mucus
+which lubricates and protects the stomach walls
+- Then the stomach sends the bolus into the small intestine where most of
+the digestion takes place. The intestine is divided into 3 parts, the duodenum,
+the jejunum and ileum. In each part something different is absorbed, the duodenum,
+absorbs iron, the jejunum absorbs sugars, amino and fatty acids. Finally, the ileum
+absorbs the vitamin B12, bile acids and some other nutrients. Most of the absorption
+takes place in the jejunum. The small intestine also has small hair-like projections 
+along the small intestine known as villi. They increase the surface area of the intestine 
+therefore increasing the absorption of chemicals in the food. The small intestine is
+about 20 ft long and ~3 cm in diameter. 
+- Once the food has gone through the small intestine it goes through the large intestine
+or the colon where it removes excess water from undigested mterial, reabsorption, only a
+bit though, depends on how hydrated the body is though. The large intestine is about 5
+ft long and 3 inches in diameter
+- Then the food goes to the rectum and is excreted through the anus as faeces. 
+- There are 3 organs that are part of the digestive system but not the tract,
+these are the liver, gall bladder and pancreas. The liver is where bile is produced,
+it is loaded with lipids and salts, and it dissolves and disperses droplets of fats
+found in food. Then gall bladder, stores bile and is attached to the liver and small
+intestine and it also absorbs water. Then there are the pancreas, they produce enzymes
+such as amylase, which, breaks down starch, nuclease, which, breaks down the nucleus of
+the cells from the food, lypases, which, break down lipids, and protinases which break 
+down proteins. These enzymes break down carbohydrates, proteins, lipids and nucleic acids.
+It also produces sodium bicarbonat which neutralizes stomach acid. Also produces insulin, 
+which regulates blood sugar. The gall bladder also drips the bile into the small
+intestine.
     
 ### Excretory System: 
-- Homeostasis is the regulation of a stable internal environment in 
-the body. 
-- Osmoregulation is how the body gets rid of the stuff it does not
-need.
+- Homeostasis is the regulation of a stable internal environment in the body. 
+- Osmoregulation is how the body gets rid of the stuff it does not need.
 - These processes happen as long as we are alive
 - When the body is breaking down proteins, ammonia is produced
 - Water is also very important for making urea which is CO2 + NH3 
@@ -112,8 +97,7 @@ either sides of the spinal column
 - Waste filled blood enters kidney through renal artery
 - As blood goes through, urea, excess water and other wastes
 are removed and collected as urine
-- Clean, filtered blood is returned to circulation through renal 
-vein
+- Clean, filtered blood is returned to circulation through renal vein
 - Nephrons is the main filtering unit, 1 million in each
 - Blood enters nephron folowing into a small network of capillaries 
 known as glomerulus
@@ -192,74 +176,61 @@ it just stays there until we piss
     - Simple -> Monosaccharides, Disaccharides
     - Complex -> Polysaccharides
     - 3 types:
-        - Monosaccharides => Glucose, Fructose, Galactose from 
-        fruits
+        - Monosaccharides => Glucose, Fructose, Galactose from fruits
         - Disaccharides   => Maltose, Lactose, Sucrose from sweets
-        - Polysaccharides => Starches, Fibers, Glycogen from normal 
-        food
+        - Polysaccharides => Starches, Fibers, Glycogen from normal food
     - Indigestiable carbs:
         - Commonly known as fiber
-        - Celluose => Helps muscles to keep food and wastes moving
-        through digestive and excretory systems
+        - Celluose => Helps muscles to keep food and wastes moving through
+        digestive and excretory systems
         - Starch, contained in breads, pasta, cereal, rice
 
 
-- Protein is made up of 20 amino acids, some of them can't be made
-by the body
-- Calorie is the amount of energy in joules needed to heat up 1 cm
-cubed of water by 1 degrees Celsius 
+- Protein is made up of 20 amino acids, some of them can't be made by the body
+- Calorie is the amount of energy in joules needed to heat up 1 cm cubed of water by 1 degrees Celsius 
 - 1 calorie = 4.186 joules 
 
 - Calorie:
-1. Any of several approximately equal units of heat, each measured
-as the quantity of heat required to raise the temperature of 1 gram 
-of water by 1°C at 1 atmosphere pressure.
+1. Any of several approximately equal units of heat, each measured as the quantity of
+heat required to raise the temperature of 1 gram of water by 1°C at 1 atmosphere pressure.
 
 
-2. The unit of heat equal to 1/100 the quantity of heat required
-to raise the temperature of 1 gram of water from 0 to 100°C at 1
-atmosphere pressure.
+2. The unit of heat equal to 1/100 the quantity of heat required to raise the 
+temperature of 1 gram of water from 0 to 100°C at 1 atmosphere pressure.
 
-3. The unit of heat equal to the amount of heat required to raise
-the temperature of 1 kilogram of water by 1°C at 1 atmosphere 
-pressure.
+3. The unit of heat equal to the amount of heat required to raise the temperature
+of 1 kilogram of water by 1°C at 1 atmosphere pressure.
 
-4. A unit of energy-producing potential equal to this amount of
-heat that is contained in food and released upon oxidation by the 
-body.  
 
-5. the gram calorie or small calorie, a non-SIunit of energy, 
-equivalent to approximately 4.2 joules. This unit was widely 
-used in chemistry and physics, being the amount of energy needed
-to raise the temperature of 1 gram of water by 1 °C. 
+4. A unit of energy-producing potential equal to this amount of heat that is
+contained in food and released upon oxidation by the body.  
 
-6. kilogram calorie or large calorie. A unit of energy 1000 times 
-larger than the gram calorie. It is equivalent to the gram
-kilocalorie, approximately 4.2 kilojoules.
+5. the gram calorie or small calorie, a non-SIunit of energy, equivalent to approximately 4.2 joules.
+This unit was widely used in chemistry and physics, being the amount of energy needed to raise the 
+temperature of 1 gram of water by 1 °C. 
+
+6. kilogram calorie or large calorie. A unit of energy 1000 times larger than the gram calorie. It
+is equivalent to the gram kilocalorie, approximately 4.2 kilojoules.
 
 
 - Protein:
-    - Supply materials for growth and repair of things like skin 
-    and muscle
+    - Supply materials for growth and repair of things like skin and muscle
     - Regulatory and transport functions
-    - Made of 20 possible amino acides and the body produces 12 of 
-    them, remaining 8 are consumed, they are also known as essential
-    amino acids
+    - Made of 20 possible amino acides and the body produces 12 of them,
+    remaining 8 are consumed, they are also known as essential amino acids
 
 - Vitamins:
-    - Organic molecules that help regulate body processes (carbon
-    based)
+    - Organic molecules that help regulate body processes (carbon based)
     - 2 kinds, water soluble and fat soluble
     - Vitamin deficiencies can cause lethal damage
     - Vitamin A, retains the retina in the eye
-    - Vitamin C, sticks together cells lining surfaces to make 
-    connective tissues
+    - Vitamin C, sticks together cells lining surfaces to make connective
+    tissues
     - Vitamin D, helps bones absorb calcium
 
 - Fats AKA Lipids: 
     - Saturated & Unsaturated
-    - Must be consumed to survive since our bodies can't make 
-    enough of it
+    - Must be consumed to survive since our bodies can't make enough of it
     - Protects body organs
     - Stores energy
     - Produces cell membranes
@@ -272,8 +243,8 @@ kilocalorie, approximately 4.2 kilojoules.
     - Calcium for bones
     - Iron for carrying oxygen
     - Magnesium nerve and msucle function
-    - They are not digested but they are lost in sweat, urine and 
-    other wastes
+    - They are not digested but they are lost in sweat, urine and other
+    wastes
     - Replaced only through food intake
 
 - The most energy that produces is fat:
@@ -281,11 +252,9 @@ kilocalorie, approximately 4.2 kilojoules.
     - Proteins      = 4 cal/gram
     - Fat           = 9 cal/gram
 
-- The food becomes a bolus once it becomes chewed and mixed with
-saliva
+- The food becomes a bolus once it becomes chewed and mixed with saliva
 - Chyme is the food exiting the stomach
-- Increasing the surface area is good and that is why you break
-down the food
+- Increasing the surface area is good and that is why you break down the food
 
 - Mechanical Digestion:
     - Teeth
@@ -396,57 +365,43 @@ bulb.
 - Edison only improved on the bulbs
 
 - Conductors and insulators, metals are all conductors
-- Conductors are the things that allow electric current to pass
-through it easily. 
+- Conductors are the things that allow electric current to pass through it easily. 
 - Insulators are resistant to electricity
-- Insulators are the things that cannot carry electric current
-but can cause static electricity
+- Insulators are the things that cannot carry electric current but can cause static electricity
 - When you rub 2 insualators, electrons are pased from A to B
 - Electric charge can be postive or negative
 - The positive and negative charge of an atom is the same
 - Atoms are uncharges due to the above
 - Opposites attract and like repel
-- Static electricity describes situation of objects that are 
-stationary best with insulators as well
-- Current occurs when charge moves from A to B, best with 
-conductors
-- When certain insulators are rubbed against each other, 
-they get charged
+- Static electricity describes situation of objects that are stationary
+best with insulators as well
+- Current occurs when charge moves from A to B, best with conductors
+- When certain insulators are rubbed against each other, they get charged
 - Electrons move and protons stay stationary in an object
-- The material that gains the negative charge becomes negatively
-charged
-- The material that loses the negative charge is left with an
-equal positive charge
+- The material that gains the negative charge becomes negatively charged
+- The material that loses the negative charge is left with an equal positive charge
 - When uncharged and charged objects come together they attract
 - Different charge attracts and same charge repels
-- The main danger of static electricity is a spark which can
-blow things up
-- When oil/petrol is pumped, there can be a spark and boom, 
-an explosion at the petrol station
-as the spark is also able to burn the fuel as there is oxygen
-in the air
-- In operating rooms, it is vital that doctors don't become 
-statically charged
-because some of the gases in the room can cause explosions as
-well and that is why antistatic floors are used which are made
-of conductors
-- Applications of this static electricity are paint spraying,
-ink-jet printers, photocopiers and smoke precipitators
+- The main danger of static electricity is a spark which can blow things up
+- When oil/petrol is pumped, there can be a spark and boom, an explosion at the petrol station
+as the spark is also able to burn the fuel as there is oxygen in the air
+- In operating rooms, it is vital that doctors don't become statically charged
+because some of the gases in the room can cause explosions as well and that is 
+why antistatic floors are used which are made of conductors
+- Applications of this static electricity are paint spraying, ink-jet printers,
+photocopiers and smoke precipitators
 
 
 
 - ***COPY PASTED***
-- The spray nozzle is connected is connected to the positive
-terminal of an electrostatic generator. As the paint droplets
-leave they repel each other and spread out to form a fine cloud
-of paint. The metal panel to be painted is connected to the 
-negative terminal. The negatively charged metal panel attracts
-the positively charged paint.
+- The spray nozzle is connected is connected to the positive terminal of an electrostatic generator.
+As the paint droplets leave they repel each other and spread out to form a fine cloud of paint.
+The metal panel to be painted is connected to the negative terminal.
+The negatively charged metal panel attracts the positively charged paint.
 
-- Spots of ink are given an electric charge as they leave the 
-ink nozzle. The deflecting plates cause the drops to hit the
-right part of the paper. The charges on the deflecting plates
-change many times per second so that each drop
+- Spots of ink are given an electric charge as they leave the ink nozzle.
+The deflecting plates cause the drops to hit the right part of the paper.
+The charges on the deflecting plates change many times per second so that each drop
 hits the paper in a different position.
 
 
@@ -456,58 +411,27 @@ hits the paper in a different position.
 
 - **ANSWER QUESTIONS**
 
-2. Lightning is caused by the moving of frozen raindrops through the
-air and when they bump into each other this results in electric 
-charge. This happens and happens eventually causing the whole cloud
-to be filled with electric charge. The positive charge is stored at 
-the top of the cloud and the negative is stored at the bottom. As 
-most of you know, opposite charges attract, the ground beneath the
-cloud builds up a positive charge. The ground’s electric charge then
-focuses on anything that sticks up like humans. The charge coming
-from these points connects with the charge coming from the clouds
-and this becomes lightning. There are many types of lightning like
-Sheet lightning, Fork lightning, Heat lightning, St. Elmo’s Fire,
-Ball lightning and Sprites and many more……
+2. Lightning is caused by the moving of frozen raindrops through the air and when they bump into each other this results in electric charge. This happens and happens eventually causing the whole cloud to be filled with electric charge. The positive charge is stored at the top of the cloud and the negative is stored at the bottom. As most of you know, opposite charges attract, the ground beneath the cloud builds up a positive charge. The ground’s electric charge then focuses on anything that sticks up like humans. The charge coming from these points connects with the charge coming from the clouds and this becomes lightning. There are many types of lightning like Sheet lightning, Fork lightning, Heat lightning, St. Elmo’s Fire, Ball lightning and Sprites and many more……
 
-3. The most dangerous thing about lightning is that no one knows 
-where it is going to strike and that is why it is said that you 
-should stay indoors and turn off any electronic equipment in your
-house so you stay safe. To stay safe you should stay away from
-water and stay away from conductive equipment like outlets and other
-metals. Also try to stay away from open fields and hilltops because
-these places have the highest probability of charge building up and
-avoid contact with the ground. Don’t stand under trees or other 
-high  objects. To keep your house safe you can buy lightning rods.
-Avoid showers, keep your windows closed and turn off any electronics
-and stay away from them. If you are in a car put both of your hands 
-on your lap, keep the windows shut and avoid contact with car and 
-don’t touch the radio or something and also pull to the side of 
-the road.
+3. The most dangerous thing about lightning is that no one knows where it is going to strike and that is why it is said that you should stay indoors and turn off any electronic equipment in your house so you stay safe. To stay safe you should stay away from water and stay away from conductive equipment like outlets and other metals. Also try to stay away from open fields and hilltops because these places have the highest probability of charge building up and avoid contact with the ground. Don’t stand under trees or other high objects. To keep your house safe you can buy lightning rods. Avoid showers, keep your windows closed and turn off any electronics and stay away from them. If you are in a car put both of your hands on your lap, keep the windows shut and avoid contact with car and don’t touch the radio or something and also pull to the side of the road.
 
-- 1a(I):  The cloth becomes negatively charged and the perspex rod 
-becomes positively charged
-- 1a(II): The cloth becomes positively charged and the rod becomes 
-negatively charged
+- 1a(I):  The cloth becomes negatively charged and the perspex rod becomes positively charged
+- 1a(II): The cloth becomes positively charged and the rod becomes negatively charged
 - 1b(I):  They attract because of the charge
 - 1b(II): The charge is negative
 - 1c(I):  Due to them being samely charged
 - 1c(II): Due to them being oppositely charged
 - 2a:     By rubbing a cloth with it
 - 2b:     Negative and Positive
-- 2c:     Yes, because the different types of materials allow
-electrons to be either transferred or received 
+- 2c:     Yes, because the different types of materials allow electrons to be either transferred or received 
 - 2d:     Repel
-- 2e:     We can rub some cloth on 2 rods of different materials 
-and then put them near each other to see what
-happens, if they repel, they have same charge
-otherwise unlike charge
+- 2e:     We can rub some cloth on 2 rods of different materials and then put them near each other to see what
+          happens, if they repel, they have same charge otherwise unlike charge
 - 2f:     Their atoms
-- 2g:     The electrons can be transferred from one atom to another 
-causing one to be negative charged and the other to be positive
-- 3:  i   The hair are repelling because of them having the same
-charge
-- 3:  ii  Because it is an insulator and does not allow the
-electricity go to the earth
+- 2g:     The electrons can be transferred from one atom to another causing one to be negative charged and 
+          the other to be positive
+- 3:  i   The hair are repelling because of them having the same charge
+- 3:  ii  Because it is an insulator and does not allow the electricity go to the earth
 - 3:  iii Hair would not stand up
 
 - Electric current is the rate of flow of electric charge
@@ -530,8 +454,8 @@ battery
 the voltage stays the same as the start
 
 - Voltage = Energy / Charge
-- Voltage is the energy transferred per unit of charge 
-- Current is the rate of flow of charge 
+- Voltage definition -------
+- Current definition -------
 - 1 volt is the same as 1 joule per coulomb
 - Electric current only flows if the circuit is complete, unbroken
 and contains a power supply
@@ -575,43 +499,16 @@ the separate components.
 - ![./res/complete_symbols.png](./res/complete_symbols.png)
 - Coulomb = 6.2 * 10^18
 
-- Benjamin Franklin was the one who said current moves positive to
-negative
+- Benjamin Franklin was the one who said current moves positive to negative
 - [Conventional Current]
-- Electroscope is that thing that opens up or something [from like that static electricity lesson]
+- Electroscope that thing that opens up or something [from like that static electricity lesson]
 
-- Resistance is the opposition to the flow of charge and is measured in ohms, also known as voltage.
-- R (Ohms) = V (Volts) / I (Amps)
-- To determine resistance, you need is a power supply, a variable resistor, test resistor, and 
-ammeter and voltmeter. Varying the variable resistor, slowly the voltage increases, the current
-also increases and the slope of this linear graph is 1/R. Meaning slope = 1/R 
-- The resistance of wires:
-    - The longer the wire, the greater the resistance as the electrons are going through, 
-    the electrons would bump with the wire's atoms and the longer the wire, the more chance
-    of bumping. 
-    - The thinner the wire, the greater the resistance, as in larger area, there is more room
-    to move for the electrons while in a smaller area, there is less room for the electrons to
-    move
-
-- RT = Resistance Total
-- In series:
-    - RT = R1 + R2
-- In parallel:
-    - 1/RT = 1/R1 + 1/R2
-
-- Current is proportional to the voltage
-- V = IR
-- Current is inversely proportional to resistance
-- V/R = I
-- Voltage is *not* proportional to current
-- Important note that in parallel circuits the current is added not like in series circuits
 
 #### Questions
 - I [amps] = Q [coulombs] / T [seconds]
-- Rate of something, for example say, 
-dollar per kg = total kg / total dollars, 
-so the Q is the total amount of electrons that flows through the 
-circuit in T amount of seconds.
+- Rate of something, for example say, dollar per kg = total kg / total dollars, 
+so the Q is the total amount of electrons that flows through the circuit in T
+amount of seconds.
 - It is negative as protons cannot move
 - 3 Amps
 - (18 * (6.2 * 10^18)) / 3
@@ -641,64 +538,9 @@ transferred by each Coulomb between two points in a circuit
 - The one at V1
 - For the drawing:
     - a: draw a circuit which has 4 lamps in parallel
-    - b: draw a circuit which has 2 bulbs in series and then the
-    other 2 are parallel
+    - b: draw a circuit which has 2 bulbs in series and then the other 2 are parallel
     - c: draw a circuit which has 4 lamps in series
 
 - P = VI
 - 57.5 Watts
-
-
-### Circuit Questions
-- Circuit 4:
-    - Total potential distance of battery is 4.5 volts (1.5 * 3)
-    - The potential distance across each of them is 2.25 volts as 4.5/2
-    - 0.25A  
-    - 0.25A
-    - 9 Ohms     2.25/0.25 
-    - 18 Ohms    4.50/0.25
-    - 0.8A    
-    - 1.6A
-    - 3V
-    - 3.75 Ohms   3/0.8
-    - V (Volts) = I (Amps) * R (Ohms)
-    - 4A    (12/3)
-    - R_t = R_1 + R_2
-    - 15 Ohms 12 + 3
-    - The current going through the second resistor is less than the one that is initially coming
-    - 1A 12/15 (15 because R_t = R_1 + R_2)
-
-- Circuit 5:
-    - 5 Ohms 2 + 3
-    - 3A  15/5
-    - 3A  15/5
-    - 6V  (3 * 2)
-    - 9V  (3 * 3)
-    - 15 Ohms 10 + 5
-    - 1.5V 0.1 * 15
-    - They are connected in series
-    - The brightness is decreased    
-    - Due to them being connected in series
-    - 23
-    - 0.25A
-    - 10A (230/23)
-    - The current still goes through the resistor which allows the current to pass to the other lamps
-    - The brightness decreases as the resistor increases the resistance allowing less current to flow
-
-- Current Characteristics 1:
-    - *Just graphs and stuff*
-
-- Current Characteristics 2:
-    - As some types of metals are not as good as say something like copper and have more resistance
-    - The longer the wire, the more the resistance, the same length means the same resistance
-    - V = IR
-    - I would first check the initial voltage of the battery and then I would check the current that is 
-    going through the bulb. Then I would use V=IR to find the resistance of the wire. 
-    - 4.166 Ohms
-    - 2.5   Ohms
-    - 1.25  Ohms
-    - The current increases linearly
-    - The resistance stays the same
-    - The resistance increases as we decrease the cross sectional area
-
-
+- 
