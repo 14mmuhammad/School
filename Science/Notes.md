@@ -701,4 +701,45 @@ transferred by each Coulomb between two points in a circuit
     - The resistance stays the same
     - The resistance increases as we decrease the cross sectional area
 
+## Unit 4: Atoms 
 
+- Atom is the smallest possible unit of matter that still retains or has the properties of a certain chemical
+element
+- The atoms combine with ions and molecules to make up all of matter
+- They are made up of 3 sub-atomic particles:
+    - Electrons, negative charge, go around the shell of the atom
+    - Protons, positive charge, in the nucleus of an atom
+    - Neutrons, no charge, also in the nucleus of an atom
+
+
+- Neutrons and protons have around the same mass and if we were to compare
+the mass of the neutrons and protons to the electrons, the electrons' mass
+seems like nothing and it is ignored. 
+- An atom contains an equal number of protons and electrons and so it has no charge, though
+the nucleus is positively charged
+- The atomic number of an element is the same as the number of protons in the nucleus. 
+- The atomic weight of an element is found by adding the number of protons and neutrons. 
+- The sub-atomic particles of protons and neutrons are made up of even smaller particles 
+known as quarks
+- The smallest possible sub-atomic particle though is the electron as it is smaller than a proton and neutron
+- There is a theory that talks about strings being the smallest possible piece of matter as they connect the
+quarks together to form the sub-atomic particles or something. [Link](https://www.masterclass.com/articles/string-theory-explained)
+
+- There are six types of quarks (known as flavors (???)): 
+    - up 
+    - down 
+    - charm 
+    - strange 
+    - top
+    - bottom.
+
+- They come in 3 colors representing their force: red, blue and green. Up and down quarks are the most common and
+least massive. Protons are made up of one down and two up quarks, while neutrons are made up of one down and two 
+up quarks.
+- There also exists antimatter...
+
+
+- [Another One](https://sciencing.com/particles-smaller-atom-8484470.html)
+- [And Another One](https://www.youtube.com/watch?v=mYcLuWHzfmE)
+- [And the final one](https://www.youtube.com/playlist?list=PLBThhL8p7Ifk7ZvlLwiA_4eGDIylVEMac)
+- 
