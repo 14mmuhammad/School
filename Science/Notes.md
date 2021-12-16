@@ -743,3 +743,37 @@ up quarks.
 - [And Another One](https://www.youtube.com/watch?v=mYcLuWHzfmE)
 - [And the final one](https://www.youtube.com/playlist?list=PLBThhL8p7Ifk7ZvlLwiA_4eGDIylVEMac)
 - 
+
+
+##### Clash Of Titans Video (First One)
+- Everything is made of atoms
+- Discovery of atoms caused many people to rethink their theories 
+- Ludwig Boltzmann was the first one to argue that atoms are basic 
+building blocks of matter and arguing about atoms was considered a 
+waste of time a century ago due to technology. 
+- Understanding how atoms work was key to using engines efficiently
+- People believed that it was an insult to boil down God's miracle to
+a bunch of small spheres
+- Albert Einstein would go onto publish a paper about how tiny pollens 
+of grain would dance around and not float as if they were alive. Before
+him Robert Brown had also conducted this experiment but it was ignored  
+by many. 
+- Einstein argued in the paper that the pollen would only jiggle if they 
+were being jossled by tiny particles that are jiggling themselves now known
+as atoms. If there were no atoms, the pollen would stay still.
+- [Just a comment from me, not from the video] We know that there are 3 
+states of matter, well 4 but we are going to ignore that for now. Solid
+states of matter have their atoms tightly packed together therefore 
+explaining why things stay still whilst on them. In liquids, the atoms are
+still packed together but not as tightly and so they can move around. This
+phenomenon can also be seen when melting a solid, the atoms start to 
+vibrate very quickly and stuff. So as the atoms have room to move around,
+it would explain why the pollen starts to move around or dance around 
+and the same goes for gaseous states of matter. That I guess explains the
+whole experiment. `¯\_(ツ)_/¯`. Just remember density matters as well as
+the solid may sometimes just sink towards the bottom of the water due to 
+gravity and stuff as well.
+- 
+
+
+
