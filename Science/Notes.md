@@ -796,8 +796,9 @@ Rutherford would go onto prove the subatomic layer and would picture the atom
 as a solar system and the electrons would orbit around the center/nucleus. 
 Rutherford's atom though, was a contradictory one to the laws of science
 as his model of it consisted of mainly empty space and the electrons revolving
-around the nucleus would be rather distanced from it. Many scientists would 
-argue as many disagreed with Rutherford's model and propose their own. Bohr
+around the nucleus would be rather distanced from it. 
+
+- Many scientists would argue as many disagreed with Rutherford's model and propose their own. Bohr
 would then come from Denmark to Manchester. Bohr would use not matter but light
 to find the properties of atoms. Bohr intended to replace Rutherford's model
 with something knwon as quantum jump. Bohr defined the atom as more of a 
@@ -805,16 +806,18 @@ building. The ground floor was where the nucleus was and the electrons would liv
 on the floors and not in between them. The electrons could jump from one floor to
 another and this would be known as quantum jumps. When electrons jump from a 
 higher floor to lower one, light is given off and the color depends on how long
-the jump is. Scientists would argue again. Einstein hated Bohr's idea. Then
-Heisenburg and Shcrodinger would have conflicting ideas. Shcrodinger was a 
-very interesting man... He would have multiple girlfriends throughout his married
-life and in 1925, Shcrodinger would stay at a hotel and spend time with an 
-old girlfriend of his and throughout this time he would come up with the idea 
-that the electron was a wave of energy that was vibrating so fast that it would look
-like a cloud and came with an equation that would discribe this vibration. 
+the jump is. 
+
+- Scientists would argue again. Einstein hated Bohr's idea. Then Heisenburg and 
+Shcrodinger would have conflicting ideas. Shcrodinger was a very interesting man... 
+He would have multiple girlfriends throughout his married life and in 1925, Shcrodinger 
+would stay at a hotel and spend time with an old girlfriend of his and throughout this 
+time he would come up with the idea that the electron was a wave of energy that was 
+vibrating so fast that it would look like a cloud and came with an equation that would discribe this vibration. 
 This equation would be known as Shcrodinger's Wave equation. The idea still
-couldn't explain Bohr's quantum jump though. Heisenburg would be going to an
-island at the north coast of Germany and would work on Shcrodinger's idea and
+couldn't explain Bohr's quantum jump though. 
+
+- Heisenburg would be going to an island at the north coast of Germany and would work on Shcrodinger's idea and
 Bohr's idea. He believed it was time to give up the picture of the atom which
 many deterred. He decided to use maths to understand the behaviour of it but 
 would later understand that the atom defied visualizations and traditional 
@@ -831,7 +834,9 @@ would go onto make a new theory of the atom now known as matrix mechanics. Heise
 and his mentor would be able to accurately atomic behaviour but for the traditionalists,
 "it was pure heresy" as a mere array of numbers or a matrix could not represent an 
 atom. (me, talking now) To summarize, some of these physicists really hated each other
-like Shcrodinger and Heisenburg. When Shcrodinger was going to give his lecture, 
+like Shcrodinger and Heisenburg. 
+
+- When Shcrodinger was going to give his lecture, 
 Heisenburg would go there and attack Shcrodinger's methods. Heisenburg at the end of 
 the lecture would object to Shcrodinger's idea yet he would be booed and would have
 to leave. The whole scientific world was against Bohr and Heisenburg. They both would
