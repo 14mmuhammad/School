@@ -702,151 +702,143 @@ transferred by each Coulomb between two points in a circuit
     - The resistance increases as we decrease the cross sectional area
 
 ## Unit 4: Atoms 
+- Atom: smallest unit of matter that retains the chemical identity of a certain element
+- Element: a pure substance made of one type of atom and cannot be broken down further into
+simpler and stable subtances
+- Molecule: Two or more non-metal elements joined together
+- Compound: A metal and non-metal(s) joined together chemically
+- Atoms have 2 regions, nucleus and the electron cloud. The nucleus has 
+the protons and neutrons. The electron cloud has the electrons and surrounds
+the nucleus.
+- Sub-atomic particles:
+    - Proton: charge is positive, abbreviation is p+ and mass is (1.7 * 10^(-27))g
+    mass = 1
+    - Electron: charge is negative, abbreviation is e- and mass is (9.1 * 10^(-31))g
+    mass = 1
+    - Neutron: charge is neutral, abbreviation is n0 and mass is (1.7 * 10^(-27))g
+    mass = 0
 
-- Atom is the smallest possible unit of matter that still retains or has the properties of a certain chemical
-element
-- The atoms combine with ions and molecules to make up all of matter
-- They are made up of 3 sub-atomic particles:
-    - Electrons, negative charge, go around the shell of the atom
-    - Protons, positive charge, in the nucleus of an atom
-    - Neutrons, no charge, also in the nucleus of an atom
+- p+ = Protons
+- n0 = Neutrons
+- e- = electrons
 
+- Atomic number of element = number of protons 
+- Number of protons = number of electrons
+- Mass of an element = number of protons + number of neutrons (amu)
+- Number of neutrons = mass - number of protons
 
-- Neutrons and protons have around the same mass and if we were to compare
-the mass of the neutrons and protons to the electrons, the electrons' mass
-seems like nothing and it is ignored. 
-- An atom contains an equal number of protons and electrons and so it has no charge, though
-the nucleus is positively charged
-- The atomic number of an element is the same as the number of protons in the nucleus. 
-- The atomic weight of an element is found by adding the number of protons and neutrons. 
-- The sub-atomic particles of protons and neutrons are made up of even smaller particles 
-known as quarks
-- The smallest possible sub-atomic particle though is the electron as it is smaller than a proton and neutron
-- There is a theory that talks about strings being the smallest possible piece of matter as they connect the
-quarks together to form the sub-atomic particles or something. [Link](https://www.masterclass.com/articles/string-theory-explained)
+- Nuclear notation is where the element symbol, atomic number and mass is shown
 
-- There are six types of quarks (known as flavors (???)): 
-    - up 
-    - down 
-    - charm 
-    - strange 
-    - top
-    - bottom.
+- Ions are atoms that have gained or lost electrons. There are 2 types of ions, anions
+and cations. Anions are the ones that have gained an electron and the cations are the 
+ones that have lost an electron. Ionic bonding is when the valence electron of an element
+is permanently transferred to another one and it happens between metals and non-metals. 
+Covalent bonding is when that electron is shared and it can be happen metals and non-metals as 
+well as metals and metals.
 
-- They come in 3 colors representing their force: red, blue and green. Up and down quarks are the most common and
-least massive. Protons are made up of one down and two up quarks, while neutrons are made up of one down and two 
-up quarks.
-- There also exists antimatter...
+- Due to isotopes (which are atoms of the same element with a different amount of 
+neutrons) atomic mass can be in decimals. There exist different isotopes of Carbon
+for example, Carbon-12 and Carbon-14. Depending on their prevalence like if 90% 
+is Carbon-12 and 10% is Carbon-14, we find the relative average by doing 
+AMU of Carbon-12(0.9) + AMU of Carbon-14(0.1) and we get 12.2 which will be the average. 
+This is just an example and not the actual relative mass.
 
-##### Clash Of Titans Video (First One)
-- Everything is made of atoms
-- Discovery of atoms caused many people to rethink their theories 
-- Ludwig Boltzmann was the first one to argue that atoms are basic 
-building blocks of matter and arguing about atoms was considered a 
-waste of time a century ago due to technology. 
-- Understanding how atoms work was key to using engines efficiently
-- People believed that it was an insult to boil down God's miracle to
-a bunch of small spheres
-- Albert Einstein would go onto publish a paper about how tiny pollens 
-of grain would dance around and not float as if they were alive. Before
-him Robert Brown had also conducted this experiment but it was ignored  
-by many. 
-- Einstein argued in the paper that the pollen would only jiggle if they 
-were being jossled by tiny particles that are jiggling themselves now known
-as atoms. If there were no atoms, the pollen would stay still. He also said
-for brownian motion to occur, atoms must exist
-- [Just a comment from me, not from the video] We know that there are 3 
-states of matter, well 4 but we are going to ignore that for now. Solid
-states of matter have their atoms tightly packed together therefore 
-explaining why things stay still whilst on them. In liquids, the atoms are
-still packed together but not as tightly and so they can move around. This
-phenomenon can also be seen when melting a solid, the atoms start to 
-vibrate very quickly and stuff. So as the atoms have room to move around,
-it would explain why the pollen starts to move around or dance around 
-and the same goes for gaseous states of matter. That I guess explains the
-whole experiment. `¯\_(ツ)_/¯`. Just remember density matters as well as
-the solid may sometimes just sink towards the bottom of the water due to 
-gravity and stuff as well.
-- Einstein would also go onto prove that the dance of the pollen revealed the 
-size of the atom using some quick mafs. 
-- Manchester would become the center of nuclear physics
-- Neils Bohr and Ernest Rutherford would work together in the 1910s. They had
-completely different methods of working but did have the same goal 
-- In the 1890s, X-Rays were discovered in Germany. A few years later in Cambridge
-it would be shown that powerful currents could produce strange streams of tiny
-charged glowing particles called electrons. 
-- In 1896, The metal Uranium would also be known as radioactive and it would be 
-able to pass through solids.
-- Rutherford was fascinated by this and he would have his assisstants an 
-experiment in 1909. The materials would be, a very very thin gold leaf, a 
-moveable fluorescent screen that is flashed when hit by radioactive rays and 
-a box that contained the radioactive metal known as Radium. It would be a 
-powerful source of a radioactivity known to Rutherford as alpha rays and it
-was more like a stream of particles and it would output them like a machine gun.
-The experiment was simple, use the Radium gun to shoot at the gold leaf and 
-with the fluorescent plate count the number of particles that come out the 
-other side. His assisstants would keep on doing this for weeks and the particles
-seemed to punch through the leaf as if it wasn't there and sometimes they would
-just swerve slightly while going through. Rutherford would be told by his 
-assisstant that they had seen nothing unusual. He would ask his assisstant to
-check if there were any alpha particles were bouncing back to the gun. His 
-assisstants would spend a LOT of time doing this. Nothing interesting happened
-until once, it would be seen that the 1/8000 particles would bounce back. 
-Rutherford would go onto prove the subatomic layer and would picture the atom
-as a solar system and the electrons would orbit around the center/nucleus. 
-Rutherford's atom though, was a contradictory one to the laws of science
-as his model of it consisted of mainly empty space and the electrons revolving
-around the nucleus would be rather distanced from it. 
+- Noble gases are unreactive because their outer orbital is full, other elements try 
+to look like their nearest noble gas and that is the basis for the bonding of elements.
 
-- Many scientists would argue as many disagreed with Rutherford's model and propose their own. Bohr
-would then come from Denmark to Manchester. Bohr would use not matter but light
-to find the properties of atoms. Bohr intended to replace Rutherford's model
-with something knwon as quantum jump. Bohr defined the atom as more of a 
-building. The ground floor was where the nucleus was and the electrons would live
-on the floors and not in between them. The electrons could jump from one floor to
-another and this would be known as quantum jumps. When electrons jump from a 
-higher floor to lower one, light is given off and the color depends on how long
-the jump is. 
+- When drawing Bohr models don't forget to add the brackets
+- The electron arrangements go as 2-8-8-18-18-32-32
 
-- Scientists would argue again. Einstein hated Bohr's idea. Then Heisenburg and 
-Shcrodinger would have conflicting ideas. Shcrodinger was a very interesting man... 
-He would have multiple girlfriends throughout his married life and in 1925, Shcrodinger 
-would stay at a hotel and spend time with an old girlfriend of his and throughout this 
-time he would come up with the idea that the electron was a wave of energy that was 
-vibrating so fast that it would look like a cloud and came with an equation that would discribe this vibration. 
-This equation would be known as Shcrodinger's Wave equation. The idea still
-couldn't explain Bohr's quantum jump though. 
+- Solid to liquid is melting
+- Liquid to Solid is freezing
+- Liquid to gas is boiling
+- Gas to liquid is condensation 
+- These processes have the same temperatures
 
-- Heisenburg would be going to an island at the north coast of Germany and would work on Shcrodinger's idea and
-Bohr's idea. He believed it was time to give up the picture of the atom which
-many deterred. He decided to use maths to understand the behaviour of it but 
-would later understand that the atom defied visualizations and traditional 
-maths. He would then learn that he would have to use a certain type of mathematics, 
-(me, talking now, not the video) in a nutshell, say you have 2 numbers 3 and 4
-and you multiply them, you get 12, you can multiply them 3 x 4 and 4 x 3 meaning
-the order does not matter but for atoms, the order matters. I haven't watched the
-next few seconds of the video but from what I know about Maths so far, this type 
-of mathematics is represented by matrices which are n x m and they can be used
-to represent many things. If you were to multiple matrix A and B, you would get 
-a different result than doing B x A. Back to the video now, he would then go back
-to his university and would work with his colleague, Max Borne about it and they 
-would go onto make a new theory of the atom now known as matrix mechanics. Heisenburg 
-and his mentor would be able to accurately atomic behaviour but for the traditionalists,
-"it was pure heresy" as a mere array of numbers or a matrix could not represent an 
-atom. (me, talking now) To summarize, some of these physicists really hated each other
-like Shcrodinger and Heisenburg. 
+- Properties of matter:
+    - Physical change - a change in a substance that does not involve a change in the chemical identity
+    of the substance
+    - Physical property - used to observe and describe matter
+    - Chemical change - one or more substances are converted into different substances
+    - Chemical property - characteristics of a material that become evident when the material undergoes
+    a chemical reaction
+    - Reactant -> Product
+    - Note that if you don't know the name of the reactant, just use the formula thingy
+    - Vertical columns on the periodic table are the groups, 1 to 18 from left to right and the elements
+    in these groups share similar properties
+    - Horizontal rows on the periodic table are the periods, the elements closer to each other seem
+    to be more similar
+    - In Group 17, the most reactant ones are from the top to bottom and in Group 1, the most reactive
+    is bottom to top
+    - Metals are good conductors of heat and electricity, most solid at room temperature, shiny, 
+    malleable, ductile
+    - Non-metals are bad conductors of heat and electricity and gases at room temperature
+    - Metalloids are the types of elements that share characteristics of metals and non-metals, they are
+    semi-conductors of electricity, solid at room temperature, and less malleable than metals but
+    less brittle than non-metals
+    - Noble gases are in group 18, non-reactive and gas at room temperature
+    - Group 1 is Alkali metals
+    - Group 2 is Alkali earth metals
+    - Group 3-12 are transitional metals
+    - Group 17 are halogens
+    - Group 18 are noble gases
+    - Halogens love Alkali metals
 
-- When Shcrodinger was going to give his lecture, 
-Heisenburg would go there and attack Shcrodinger's methods. Heisenburg at the end of 
-the lecture would object to Shcrodinger's idea yet he would be booed and would have
-to leave. The whole scientific world was against Bohr and Heisenburg. They both would
-argue about quantum mechanics and then Heisenburg would understand that there was a
-limit on how much a human can know about the sub-atomic world, we can know where an 
-electron is at a particular moment in time, we cannot know how fast it is moving, but
-if we knew its speed, we would know its position. This is what is known as Heisenburg's
-Uncertainty principle. Atoms behave like waves and particles. If you don't look at them
-they are like spread out waves but if you do look at them, they behave like a particle.
-Bohr's interpretation of the atom would be known as the Copenhagen interpretation.
+- Signs of chemical reactions:
+    - Change in temperature which, exothermic is when heat is released and endothermic is when it is absorbed
+    - Change in color
+    - Bubbles
+    - Precipitate formation
+    - When light is given off
+    - Change in smell and taste as well
 
+### Atomic theories:
+- Democritus, 460-370 BC, thought that atoms were indivisible and each thing was made up of unique 
+atoms, wood was made of wood atoms and iron was made of iron atoms.
+- No experimental method used
+> *Correction: Atoms are known to be divisible, his ideas also lacked scientific evidence
+and an explanation for chemical behaviour*
+
+- John Dalton, 1766-1844, thought that an element is composed of only one kind of indivisible thing 
+called an atom and a compound is composed of particles that are combinations of different kinds of 
+atoms. Also, that atoms of element A are different than atoms of element B. Atoms of different elements
+can physically  mix together or can chemically combine in whole number ratios to form compounds. Chemical 
+reactions occur when atoms are separated, joined or rearranged. However, the atoms of element A are not 
+changed into atoms of another element as a result of the chemical reaction.
+- Dalton studied the ratios in which elements combine in chemical reactions
+> *Correction: Atoms are known to be divisible*
+
+- J. J. Thomson, 1856-1940, discovered the electron which are negatively charged sub atomic particles. He
+thought that electrons are even distributed in the atom and this is known as the "plum pudding model". The
+electrons were stuck in a lump of positive charge similar to raisins stuck in dough.
+- He discovered electrons using the experiment in which electric current was passed through gases
+at a low pressure. The gases were sealed inside a glass tube and at both ends were 2 metal disks
+called electrodes which were connected to a source of electricity. One electrode would be the anode, 
+the positively charged whilst the cathode would be the negatively charged and the result was a glowing
+beam or cathode ray that went from the cathode to the anode.
+- *Correction: No, it is not a plum pudding model, more like orbital/electron cloud around the nucleus*
+
+- Ernest Rutherford, 1911, (J. J's student) would come up with the idea that the atom was mostly empty space. 
+All the positive charge of an atom and the mass was concentrated in the center known as the nucleus which
+also has the neutrons. The electrons would be distributed around the nucleus and occupy almost all 
+the volume of the atom. 
+- He had his associated do an experiment in which alpha particles, which are positively charged particles,
+would be hit onto a very thin sheet of gold foil and around the gold foil would be a fluorescent screen to 
+show if the alpha particles reflected or went through the foil. The alpha particles were to be slightly 
+deflected due to their belief in the "plum pudding model" but to their surprise these particles went right
+through. Only in 1/8000 alpha particles bounced back proving the existence of a nucleus and disproving 
+Thomson's model.
+- *Correction: In this model, the nucleus is too small, if the atom was the size of a football stadium, 
+the nucleus would be about the size of a marble and his model was not able to explain the chemical
+properties of elements*
+
+- Neils Bohr, 1885-1962, would propose that an electron is found only in specific circular paths or orbits
+around the nucleus. Each possible orbit has a certain energy level meaning each atom can have a set amount
+of energy. These energy levels are like a ladder's steps and so electrons can change between these energy
+levels and this is something known as the quantum jump and these jumps require the electron to lose or gain
+energy depending on the desired energy level and the electron's current energy level. These energy levels are
+not evenly spaced like a ladder's and are weird.
+- Observed the absorption or emittance of light by an atom
+- *Correction: Paths are actually oval and still fails to explain much about the atom*
 
 
