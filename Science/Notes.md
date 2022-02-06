@@ -811,7 +811,8 @@ can physically  mix together or can chemically combine in whole number ratios to
 reactions occur when atoms are separated, joined or rearranged. However, the atoms of element A are not 
 changed into atoms of another element as a result of the chemical reaction.
 - Dalton studied the ratios in which elements combine in chemical reactions
-> *Correction: Atoms are known to be divisible*
+> *Correction: Atoms are known to be divisible and that some atoms of element A can have the same mass 
+as the atoms of element B*
 
 - J. J. Thomson, 1856-1940, discovered the electron which are negatively charged sub atomic particles. He
 thought that electrons are even distributed in the atom and this is known as the "plum pudding model". The
