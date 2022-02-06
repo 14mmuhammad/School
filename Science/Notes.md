@@ -793,6 +793,10 @@ to look like their nearest noble gas and that is the basis for the bonding of el
     - When light is given off
     - Change in smell and taste as well
 
+- Allotropes are when the atoms of an element have bonded in a different manner, common 
+example is graphite and dimaonds. Made of the same elements but structurally different.
+They are allotropes of Carbon.
+
 #### Atomic theories
 - Democritus, 460-370 BC, thought that atoms were indivisible and each thing was made up of unique 
 atoms, wood was made of wood atoms and iron was made of iron atoms.
