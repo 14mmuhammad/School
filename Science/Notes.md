@@ -702,6 +702,7 @@ transferred by each Coulomb between two points in a circuit
     - The resistance increases as we decrease the cross sectional area
 
 ## Unit 4: Atoms 
+#### Basics
 - Atom: smallest unit of matter that retains the chemical identity of a certain element
 - Element: a pure substance made of one type of atom and cannot be broken down further into
 simpler and stable subtances
@@ -792,7 +793,7 @@ to look like their nearest noble gas and that is the basis for the bonding of el
     - When light is given off
     - Change in smell and taste as well
 
-### Atomic theories:
+#### Atomic theories
 - Democritus, 460-370 BC, thought that atoms were indivisible and each thing was made up of unique 
 atoms, wood was made of wood atoms and iron was made of iron atoms.
 - No experimental method used
@@ -816,7 +817,7 @@ at a low pressure. The gases were sealed inside a glass tube and at both ends we
 called electrodes which were connected to a source of electricity. One electrode would be the anode, 
 the positively charged whilst the cathode would be the negatively charged and the result was a glowing
 beam or cathode ray that went from the cathode to the anode.
-- *Correction: No, it is not a plum pudding model, more like orbital/electron cloud around the nucleus*
+> *Correction: No, it is not a plum pudding model, more like orbital/electron cloud around the nucleus*
 
 - Ernest Rutherford, 1911, (J. J's student) would come up with the idea that the atom was mostly empty space. 
 All the positive charge of an atom and the mass was concentrated in the center known as the nucleus which
@@ -828,7 +829,7 @@ show if the alpha particles reflected or went through the foil. The alpha partic
 deflected due to their belief in the "plum pudding model" but to their surprise these particles went right
 through. Only in 1/8000 alpha particles bounced back proving the existence of a nucleus and disproving 
 Thomson's model.
-- *Correction: In this model, the nucleus is too small, if the atom was the size of a football stadium, 
+> *Correction: In this model, the nucleus is too small, if the atom was the size of a football stadium, 
 the nucleus would be about the size of a marble and his model was not able to explain the chemical
 properties of elements*
 
@@ -839,6 +840,6 @@ levels and this is something known as the quantum jump and these jumps require t
 energy depending on the desired energy level and the electron's current energy level. These energy levels are
 not evenly spaced like a ladder's and are weird.
 - Observed the absorption or emittance of light by an atom
-- *Correction: Paths are actually oval and still fails to explain much about the atom*
+> *Correction: Paths are actually oval and still fails to explain much about the atom*
 
 
